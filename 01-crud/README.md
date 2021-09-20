@@ -24,7 +24,7 @@ Atenção: lembre-se de que por padrão a JPA transforma nomes de atributos em c
 2) Testes manuais no Postman
    O professor já terá preparado em seu computador as requisições Postman abaixo. Todas elas deverão funcionar corretamente:
    
-
+---
     Busca paginada de clientes
     GET /clients?page=0&linesPerPage=6&direction=ASC&orderBy=name
 ---
